@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=00d2ff&height=250&section=header&text=Vihanga%20Lochana&fontSize=70&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient:90,0011ff,00ffff&height=200&section=header&text=VIHANGA%20LOCHANA&fontSize=70&animation=twinkling&fontColor=ffffff" />
 </p>
 
 <p align="center">

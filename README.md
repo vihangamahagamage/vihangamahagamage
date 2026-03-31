@@ -3,13 +3,13 @@
 </p>
 
 ## 👨‍💻 About Me
-I'm **Vihanga Lochana**, an Undergraduate at the **University of Kelaniya** with a passion for building impactful digital solutions.
+I'm **Vihanga Lochana**, a BICT Undergraduate at the **University of Kelaniya** with a passion for building immersive and impactful digital solutions.
 
-- 🔭 **Working on:** Pharmacy Support System (Sri Lanka)
-- ⚙️ **Focusing on:** Backend Engineering & DevOps
-- 🚀 **Learning:** Advanced System Architecture & Cloud Technologies
-- 🎯 **Goal:** To become a Full-Stack Engineer
-
+- 🔭 **Currently Working on:** Pharmacy Support System (Sri Lanka) & Web-based projects.
+- ⚙️ **Focusing on:** Backend Engineering & DevOps.
+- 🎮 **The Shift:** Transitioning into full-time **Game Development** starting my 3rd year.
+- 🚀 **Learning:** Game Engines, Advanced System Architecture & Cloud Technologies.
+- 🎯 **Goal:** To become a professional **Game Developer**.
 ---
 
 ## 🛠️ Tech Stack
@@ -30,9 +30,9 @@ I'm **Vihanga Lochana**, an Undergraduate at the **University of Kelaniya** with
 
 ## 🌐 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/vihangamahagamage" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="[https://linkedin.com/in/vihangamahagamage](https://www.linkedin.com/in/vihanga-lochana-982729388/)" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-             square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:vihangalochana30@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
-<a href="https://instagram.com/vihangamahagamage" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="[https://instagram.com/vihangamahagamage](https://www.instagram.com/lochana__mahagamage_?igsh=ajlteHVnaWh1OXRk&utm_source=qr)" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 <p align="right">

@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=250&section=header&text=Hi%20I'm%20Vihanga%20👋&fontSize=70&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=00d2ff&height=250&section=header&text=Vihanga%20Lochana&fontSize=70&animation=fadeIn&fontColor=ffffff" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&lines=Full-Stack+Engineer;Backend+%26+DevOps;Future+Game+Developer" />
 </p>
 
 ## 👨‍💻 About Me
